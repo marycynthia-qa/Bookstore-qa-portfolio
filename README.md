@@ -152,7 +152,7 @@ Key UI flows automated using **Selenium WebDriver with JavaScript (Node.js)**.
 
 Feel free to connect with me:
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/patrick-marycynthia-ebube
+- 💼 **LinkedIn:** https://www.linkedin.com/in/marycynthia-patrick-955138354
 - 🐙 **GitHub:** https://github.com/marycynthia-qa
 
 ---
