@@ -4,7 +4,7 @@ const { expect } = require('chai');
 // Test Configuration 
 const BASE_URL = 'https://bookstore.qacurry.com';
 const VALID_EMAIL = 'student@qacurry.com';
-const VALID_PASSWORD = 'Q@curry';
+const VALID_PASSWORD = 'enter_your_password';
 const TIMEOUT = 30000;
 
 //  Helper: Build Safari Driver 
